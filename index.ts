@@ -1,4 +1,4 @@
-// De acordo com as melhores práticas, deve-se enviar o máximo possível o tipo (any)
+// De acordo com as melhores práticas, deve-se evitar o máximo possível o tipo (any)
 
 let price = 40
 let item = 'apple'
